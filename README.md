@@ -1,86 +1,70 @@
-# 👋 Hi, I'm Pathivada Deeksha!
+# 👩‍💻 Deeksha Pathivada
 
-🎓 B.Tech in Computer Science and Data Science  
-📍 Telangana, India  
-📧 228r1a67b3deeksha@gmail.com  
-📞 +91-6304728690
+🎓 **B.Tech Student | Aspiring Software Developer | Tech Enthusiast**
 
----
-
-## 💡 About Me
-
-I am an enthusiastic Computer Science and Data Science undergraduate with a passion for solving real-world problems using technology. I enjoy exploring machine learning, data analytics, and software development. My goal is to build impactful solutions that blend innovation, efficiency, and user-centric design.
+📧 deekshapathivada9@gmail.com  
+📱 +91 6304728690  
+📍 Hyderabad, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🧭 Objective
 
-- **Languages:** C++, Java, Python (Basics), HTML
-- **Tools & Technologies:** Arduino, Apache Spark, R, TensorFlow, scikit-learn, pandas, NumPy
-- **Key Areas:** Machine Learning, Data Analysis, Real-time Visualization, Sentiment Analysis, Career Guidance Systems
+To secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
-**CMR Engineering College, Hyderabad**  
-*B.Tech in Computer Science and Data Science (2022–2026)*  
-CGPA: 7.84 / 10
-
----
-
-## 🚀 Projects
-
-### 📊 Decoding Emotions and Sentiment Analysis on Social Media
-> *Solo Project | Jul 2024 – Dec 2025*  
-Used LSTM and CNN to analyze Twitter sentiment, achieving 91% accuracy. Tackled short-text challenges in social media using deep learning.
-
-### 📈 Dynamic Data Visualization for Big Data
-> *Team of 4 | Feb 2025 – Jul 2025*  
-Real-time data visualizations using Apache Spark. Enabled interactive, scalable big data insights.
-
-### 💹 Stock Price Prediction Using Historical Data
-> *Team of 4 | Mar 2025 – May 2025*  
-Built predictive models using ML techniques and historical price data to forecast stock movements.
-
-### 🌾 Smart Protection of Crops from Wild Animals
-> *Team of 4 | Mar 2024 – Jul 2024*  
-Implemented ultrasonic sensors with Arduino UNO to detect animal intrusion and protect crops.
-
-### 🎯 Career Counselling System for Schools
-> *Team of 4 | Feb 2024 – Jul 2024*  
-Developed personalized student assessments to improve career guidance in schools.
+- **B.Tech, CMR Engineering College** (2022 – 2026)  
+  CGPA: 7.8 
+- **Intermediate, Narayana Junior College** (2020 – 2022)  
+  Percentage: 80.3%  
+- **SSC, Triveni School** (2019 – 2020)  
+  Percentage: 100%  
 
 ---
 
-## 🏆 Certifications
+## 💻 Technical Skills
 
-- **AI & ML Certification** – VCube
-- **Introduction to Python** – SoloLearn
-- **Java** – Spoken Tutorial, IIT Bombay
-- **Advanced C++** – Spoken Tutorial (Score: 85%)
-- **R Programming & Data Analytics** – IIT Bombay
-- **Employability Skills** – Career-Readiness Training
+- **Languages:** C, C++, Java (Basics), Python (Basics), HTML, CSS
+- **Other Skills:** Time Management, Communication, Problem Solving, Writing, Active Listening
 
 ---
 
-## 🌱 Interests
+## 🛠 Academic Projects
 
-- Machine Learning & Deep Learning
-- Data Science & Visualization
-- Software Development
-- Reading Books & Practicing Code
+- **Smart Protection of Crops from Wild Animals**  
+  Designed a system for protecting farmlands from intruding animals using smart techniques.
 
 ---
 
-## 📫 Let's Connect!
+## 📜 Certifications
 
-- 📬 Email: [deekshapathivada9@gmail.com](mailto:deekshapathivada9@gmail.com)
-- 💼 Portfolio (Coming Soon)
-- 💡 I'm always open to collaborating on impactful tech projects!
+- Introduction to Python – *SoloLearn*
+- Python Essentials 1 – *Cisco Networking Academy*
+- Artificial Intelligence – *Infosys Springboard*
+- Artificial Intelligence Fundamentals – *Great Learning*
+- Hands-on Data Analytics with R
+- Spoken Tutorial Certificates – *Java, PHP, MySQL, Advanced C++*
+- Foundations of Cybersecurity – *Coursera*
+- TCS iON Career Edge – *Young Professional*
 
 ---
 
-> *“Code is not just about solving problems; it's about building possibilities.”*
+## 📈 Interests
 
+- Software Development  
+- Cybersecurity  
+- Artificial Intelligence  
+- Web Technologies  
 
+---
+
+## 📌 Declaration
+
+I hereby declare that the above information is true to the best of my knowledge.
+
+---
+
+> ✨ *“Striving for progress, not perfection.”*
