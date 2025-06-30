@@ -17,7 +17,7 @@ To secure a responsible career opportunity to fully utilize my training and skil
 ## 🎓 Education
 
 - **B.Tech, CMR Engineering College** (2022 – 2026)  
-  CGPA: 7.33  
+  CGPA: 7.8
 - **Intermediate, Narayana Junior College** (2020 – 2022)  
   Percentage: 80.3%  
 - **SSC, Triveni School** (2019 – 2020)  
